@@ -1,0 +1,21 @@
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+.hero-content {
+    display: flex;
+}
+.hero-left-box {
+    display: flex;
+    flex-direction: column;
+}
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+.hero text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
